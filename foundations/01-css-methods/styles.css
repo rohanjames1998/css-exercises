@@ -1,0 +1,13 @@
+*{
+    color:white;
+    font-family: sans-serif;
+}
+
+
+.external {
+    background-color: red;
+    letter-spacing: 3px;
+    font-size: 32px;
+    font-weight: 1000;
+    text-align: center;
+}
